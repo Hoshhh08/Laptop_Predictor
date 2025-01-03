@@ -1,6 +1,6 @@
 streamlit
 pandas
-numpy 
+numpy==1.21.6
 pickle5
 scikit-learn==1.0.2
 
